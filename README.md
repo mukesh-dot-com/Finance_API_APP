@@ -11,7 +11,7 @@ Inorder to run the application download the code into local machine having flutt
 
 ## 2. ScreenShot
 <p align="center">
-  <img src="detailed.png"/>
+  <img src="image.png"/>
 </p>
 
 ## 3. References
