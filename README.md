@@ -1,16 +1,18 @@
-# android_studio_projects
+# Yahoo Finance APP
 
-A new Flutter project.
+A new Flutter project with REST API Integration
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Yahoo Finance API provided access to financial data such as stock quotes, historical prices, and market trends, enabling developers to retrieve comprehensive information for analysis and integration into applications. 
 
-A few resources to get you started if this is your first Flutter project:
+Inorder to run the application download the code into local machine having flutter and dart installed and type "flutter run"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 2. ScreenShot
+<p align="center">
+  <img src="detailed.png"/>
+</p>
+
+## 3. References
+Inorder to understand and for the usage of API, https://pub.dev/packages/yahoo_finance_data_reader was used as a reference
